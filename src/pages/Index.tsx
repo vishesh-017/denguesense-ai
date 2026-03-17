@@ -11,7 +11,6 @@ import { AnalyticsDashboard } from "@/components/DengueSense/AnalyticsDashboard"
 import { HotspotMap } from "@/components/DengueSense/HotspotMap";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { Camera, BarChart3, FileText, MapPin, Activity } from "lucide-react";
-
 const Index = () => {
   const [imagePreview, setImagePreview] = useState<string | null>(null);
   const [isAnalyzing, setIsAnalyzing] = useState(false);
