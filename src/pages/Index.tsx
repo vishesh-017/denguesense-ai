@@ -149,7 +149,6 @@ const Index = () => {
       <footer className="border-t border-border/50 py-6 mt-8">
         <div className="container mx-auto px-4 text-center text-sm text-muted-foreground">
           <p>DengueSense AI — Powered by Azure AI Vision</p>
-          <p className="mt-1">Built for Microsoft AI Classroom Hackathon 2025</p>
         </div>
       </footer>
     </div>

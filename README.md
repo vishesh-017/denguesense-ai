@@ -2,7 +2,7 @@
 
 **Community-Driven Dengue Mosquito Breeding Site Detection**
 
-DengueSense AI is a smart, React-based web application that leverages AI Vision to identify and manage potential mosquito breeding sites in your community. Built for the **Microsoft AI Classroom Hackathon 2025**.
+DengueSense AI is a smart, React-based web application that leverages AI Vision to identify and manage potential mosquito breeding sites in your community.
 
 ## ✨ Key Features
 
